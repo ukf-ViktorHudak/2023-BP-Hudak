@@ -91,9 +91,6 @@ function App() {
         <DoghnutChartComponent data={BudgetChartData.data} options={BudgetChartData.options}></DoghnutChartComponent>
       </div>
 
-
-
-      
       <div style={{ backgroundColor: '#2B3467' }}>
         <SubTitle text={'Aký mala pandémia psychologický vplyv na našich respondentov?'}></SubTitle>
         <ProjectSummary></ProjectSummary>

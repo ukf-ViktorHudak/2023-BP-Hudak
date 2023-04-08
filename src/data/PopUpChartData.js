@@ -86,12 +86,12 @@ const options = {
         },
         title: {
             display: true,
-            text: 'Dôvody zrušenia dovolenky',
+            text: 'Toto sú najčastejšie dôvody, ktoré viedli respondentov k zrušeniu plánovanej dovolenky',
             position: 'bottom',
             align: 'center',
             color: '#2B3467',
             font: {
-                size: 30,
+                size: 25,
             },
         },
         datalabels: {
