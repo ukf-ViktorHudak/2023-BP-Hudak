@@ -95,7 +95,7 @@ function App() {
 
       
       <div style={{ backgroundColor: '#2B3467' }}>
-        <SubTitle text={'Meow'}></SubTitle>
+        <SubTitle text={'Aký mala pandémia psychologický vplyv na našich respondentov?'}></SubTitle>
         <ProjectSummary></ProjectSummary>
       </div>
 

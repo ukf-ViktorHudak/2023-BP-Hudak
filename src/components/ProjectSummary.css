@@ -69,3 +69,68 @@
 .right-img{
     margin: auto 5%;
 }
+
+
+  
+  
+#arrowAnim {
+    width: 1vw;
+    height: 1vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .arrow {
+    width: 2vw;
+    height: 2vw;
+    border: 0.2vw solid;
+    border-color: #FCFFE7 transparent transparent #FCFFE7;
+    transform: rotate(-135deg);
+  }
+  
+  
+  .arrowSliding {
+    position: absolute;
+    -webkit-animation: slide 5s linear infinite; 
+            animation: slide 5s linear infinite;
+  }
+  
+  .delay1 {
+    -webkit-animation-delay: 1s; 
+      animation-delay: 1s;
+  }
+  .delay2 {
+    -webkit-animation-delay: 2s; 
+      animation-delay: 2s;
+  }
+  .delay3 {
+    -webkit-animation-delay: 3s; 
+      animation-delay: 3s;
+  }
+  
+  @-webkit-keyframes slide {
+      0% { opacity:0; transform: translatey(-3vw); }	
+     20% { opacity:1; transform: translatey(-1vw); }	
+     80% { opacity:1; transform: translatey(1vw); }	
+    100% { opacity:0; transform: translatey(3vw); }	
+  }
+  @keyframes slide {
+      0% { opacity:0; transform: translatey(-3vw); }	
+     20% { opacity:1; transform: translatey(-1vw); }	
+     80% { opacity:1; transform: translatey(1vw); }	
+    100% { opacity:0; transform: translatey(3vw); }	
+  }
+
+
+  
+
+
+
+
+
+
+
+
+  
+  

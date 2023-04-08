@@ -3,6 +3,8 @@ import man from '../icons/man.png';
 import kraj from '../icons/kraj.png';
 import cislo2 from '../icons/cislo2.png';
 import cislo3 from '../icons/cislo3.png';
+import sipka1 from '../icons/sipka1.png';
+import sipka2 from '../icons/sipka2.png';
 
 function ProjectDescription() {
     return (
@@ -22,12 +24,16 @@ function ProjectDescription() {
                 <text className='number-of-res'>V dotazníku nám odpovedalo respondentov</text>
                 <img className='right-img' src={cislo2} alt="Logo" />
                 </div>
+                 <div className='project-description-node-div'>
+                <img className='arrow-img' src={sipka2} alt="Logo" /> </div>
                 <p>&emsp;</p>
                 
             </div>
 
             <div className='project-description-node'>
                 <p>&emsp;</p>
+                <div className='project-description-node-div'>
+                <img className='arrow-img' src={sipka1} alt="Logo" /> </div>
                 <div className='project-description-node-div'>
                     <img className='right-img' src={man} alt="Logo" />
                     <p><span className='number'>53%</span> respondentov boli muži</p>
@@ -40,7 +46,8 @@ function ProjectDescription() {
                 <text className='number-of-res'>Priemerný vek našich <br></br>respondentov bol</text> 
                 <img className='age-img' src={cislo3} alt="Logo" />
                 </div>
-                
+                <div className='project-description-node-div'>
+                <img className='arrow-img' src={sipka2} alt="Logo" /> </div>
                 <p>&emsp;</p>
             </div>
             <div className='project-description-node'>

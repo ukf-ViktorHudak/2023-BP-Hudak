@@ -1,6 +1,5 @@
 .footer-summary p {
     color: #FCFFE7;
-    /* margin: 1%; */
     font-size: 1.25rem;
     font-weight: bold;
     margin: 0;
@@ -21,12 +20,7 @@
 .footer-summary-node {
     display: flex;
     justify-content: space-between;
-    /* background-color: #2B3467; */
-    /* border-radius: 10px; */
-    /* display: flex; */
-    /* margin: 1% 10%; */
     padding: 0;
-    /* height: 75vh; */
 }
 .footer-summary-node-left {
     text-align: left;
@@ -36,14 +30,10 @@
 }
 
 .footer-summary {
-    /* background-color: #2B3467; */
-    /* border-radius: 10px; */
-    /* display: flex; */
+
     margin: 0 10%;
     padding: 1%;
-    /* align-content: center; */
-    /* text-align: center; */
-    /* height: 75vh; */
+
 }
 
 .number {
@@ -53,7 +43,6 @@
 }
 .name-text {
     color: #FCFFE7;
-    /* margin: 1%; */
     font-size: 1.25rem;
     font-weight: normal;
     margin: 0;

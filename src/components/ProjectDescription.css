@@ -35,24 +35,19 @@
     display: flex;
     justify-content: space-evenly;
     align-items: center;
-    /* background-color: #2B3467; */
-    /* border-radius: 10px; */
-    /* display: flex; */
     margin: 1% 0;
     padding: 1% 0;
-    /* height: 75vh; */
+    
 }
 
 
 .project-description {
-    /* background-color: #2B3467; */
-    /* border-radius: 10px; */
-    /* display: flex; */
+
     margin: 1% 10%;
     padding: 1%;
     align-content: center;
     text-align: center;
-    /* height: 75vh; */
+    
 }
 
 .number {
@@ -92,13 +87,26 @@
 .age-img:hover{
     width: 21vw;
 }
+.arrow-img{
+    width: 2vw;
+    animation: bounce 3s infinite;
+}
+@keyframes bounce {
+    0%, 20%, 50%, 80%, 100% {
+      transform: translateY(0);
+    }
+    40% {
+      transform: translateY(-30px);
+    }
+    60% {
+      transform: translateY(-15px);
+    }
+}
 
 .project-description-node-div{
     display: flex;
     justify-content: space-evenly;
     align-items: center;
     margin: 1% 0;
-    padding: 1% 0;
-
-    
+    padding: 1% 0;   
 }
