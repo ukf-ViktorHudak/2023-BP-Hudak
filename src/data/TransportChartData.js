@@ -13,8 +13,8 @@ const data = {
             borderColor: [
                 '#2B3467',
             ],
-            hoverBorderWidth: 7,
-            borderWidth: 3,
+            hoverBorderWidth: 5,
+            borderWidth: 2,
         },
         {
             label: 'Verejná doprava',
@@ -28,8 +28,8 @@ const data = {
             borderColor: [
                 '#2B3467',
             ],
-            hoverBorderWidth: 7,
-            borderWidth: 3,
+            hoverBorderWidth: 5,
+            borderWidth: 2,
         },
         {
             label: 'Osobný automobil',
@@ -43,8 +43,8 @@ const data = {
             borderColor: [
                 '#2B3467',
             ],
-            hoverBorderWidth: 7,
-            borderWidth: 3,
+            hoverBorderWidth: 5,
+            borderWidth: 2,
         },
         {
             label: 'Bezmotorové vozidlo',
@@ -58,8 +58,8 @@ const data = {
             borderColor: [
                 '#2B3467',
             ],
-            hoverBorderWidth: 7,
-            borderWidth: 3,
+            hoverBorderWidth: 5,
+            borderWidth: 2,
         },
     ],
 };
@@ -120,8 +120,6 @@ const options = {
             color: '#2B3467',
             font: {
                 size: 30,
-                // style: 'italic',
-                // family: 'Helvetica Neue'
             },
         },
         datalabels: {
@@ -137,7 +135,6 @@ const options = {
         tooltip: {
             callbacks: {
                 label: (ttItem) => `${ttItem.dataset.label}: ${ttItem.parsed.y}%`
-                // label: (ttItem) => `${ttItem.parsed.y} %`,
             }
         },
     },

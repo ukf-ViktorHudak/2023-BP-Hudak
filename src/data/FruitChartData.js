@@ -4,7 +4,6 @@ const data = {
     {
       label: 'počet %',
       data: [32.4, 45.1, 22.5, 0],
-      // data: [2, 28, 23, 11],
       backgroundColor: [
         '#ff6384',
         '#36a2eb',
@@ -20,7 +19,7 @@ const data = {
       borderColor: [
         '#2B3467',
       ],
-      borderWidth: 3,
+      borderWidth: 2,
       hoverOffset: 50
     },
   ],

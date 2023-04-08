@@ -13,8 +13,8 @@ const data = {
             borderColor: [
                 '#2B3467',
             ],
-            hoverBorderWidth: 7,
-            borderWidth: 3,
+            hoverBorderWidth: 5,
+            borderWidth: 2,
         },
         {
             label: 'Zahraničie',
@@ -28,8 +28,8 @@ const data = {
             borderColor: [
                 '#2B3467',
             ],
-            hoverBorderWidth: 7,
-            borderWidth: 3,
+            hoverBorderWidth: 5,
+            borderWidth: 2,
         }
     ],
 };

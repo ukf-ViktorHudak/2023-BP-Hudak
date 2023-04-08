@@ -21,8 +21,8 @@ const data = {
       borderColor: [
         '#2B3467',
       ],
-      borderWidth: 3,
-      hoverOffset: 50
+      borderWidth: 2,
+      hoverOffset: 60
     },
   ],
 };
