@@ -95,7 +95,8 @@ function App() {
 
       
       <div style={{ backgroundColor: '#2B3467' }}>
-      
+      <SubTitle text={'Meow'}></SubTitle>
+        <ProjectSummary></ProjectSummary>
       </div>
 
       <div style={{ backgroundColor: '#2B5267' }}>
