@@ -73,7 +73,7 @@
     color: #FF0252;
     font-weight: bold;
     font-size: 5rem;
-    letter-spacing: -5px  ;
+    letter-spacing: 0px  ;
 }
 
 .right-img {
@@ -83,6 +83,14 @@
 }
 .right-img:hover{
     width: 8.5vw;
+}
+
+.age-img{
+    width: 20vw;
+    transition: width 0.4s;
+}
+.age-img:hover{
+    width: 21vw;
 }
 
 .project-description-node-div{

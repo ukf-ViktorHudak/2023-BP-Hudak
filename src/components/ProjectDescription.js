@@ -2,6 +2,7 @@ import './ProjectDescription.css'
 import man from '../icons/man.png';
 import kraj from '../icons/kraj.png';
 import cislo2 from '../icons/cislo2.png';
+import cislo3 from '../icons/cislo3.png';
 
 function ProjectDescription() {
     return (
@@ -32,9 +33,14 @@ function ProjectDescription() {
                     <p><span className='number'>53%</span> respondentov boli muži</p>
                 </div>
             </div>
+
+            
             <div className='project-description-node'>
+                <div className='project-description-node-div'>
                 <text className='number-of-res'>Priemerný vek našich <br></br>respondentov bol</text> 
-                <span className='big-number'>26 rokov</span>
+                <img className='age-img' src={cislo3} alt="Logo" />
+                </div>
+                
                 <p>&emsp;</p>
             </div>
             <div className='project-description-node'>
