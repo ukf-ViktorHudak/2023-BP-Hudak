@@ -1,0 +1,22 @@
+.graph-description p {
+    /* color: #FCFFE7; */
+    color: #2B3467;
+    margin: 1%;
+    font-size: 2rem;
+    font-weight: bold;
+}
+.number {
+    color: #FF0252;
+    font-weight: bold;
+
+}
+.graph-description {
+    /* background-color: #2B3467; */
+    /* border-radius: 10px; */
+    /* display: flex; */
+    /* margin: auto 1% auto auto; */
+
+    padding: 1%;
+    /* height: 48vh; */
+    /* width: 100vw; */
+}

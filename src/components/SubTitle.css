@@ -1,0 +1,19 @@
+h2 {
+   /* color: #FF0252; */
+   /* color: #2B3467; */
+   color: #FCFFE7;
+
+    /* font-family: 'Mont', sans-serif; */
+    text-align: center;
+    font-size: 2rem;
+}
+
+.sub-title {
+    /* background-color: #FF0252; */
+    background-color: #2B3467;
+    /* background-color: #7D447D; */
+    margin: 1% 0 auto 0;
+    padding: 1%;
+    /* border: #2B3467 10px solid; */
+    /* border-radius: 10px; */
+}

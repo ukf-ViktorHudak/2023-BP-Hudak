@@ -1,0 +1,26 @@
+.legend-square {
+    width: 20px;
+    height: 20px;
+    margin: auto 3%;
+    border: 1px;
+    outline: #2B3467 3px solid;
+ 
+}
+
+.legend-square:hover {
+    width: 25px;
+    height: 25px;
+}
+
+.legend-row {
+    display: flex;
+    justify-content: stretch;
+    align-items: center;
+    color: #2B3467;
+    font-weight: bold;
+}
+
+.alcohol-chart-legend {
+    margin: 5% auto auto auto;
+    width: 100vw;
+}

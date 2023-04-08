@@ -1,0 +1,96 @@
+.project-description p {
+    color: rgb(43, 52, 103);
+    margin: 1% 0;
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-align: left;
+    
+}
+
+.number-of-res{
+    color: #2B3467;
+    margin: 1% 0;
+    font-size: 1.25rem;
+    font-weight: bold;
+    text-align: right;
+    
+
+}
+
+.project-description-top-text p{
+    text-align: center;
+}
+.project-description hr {
+    border: #2B3467 dashed 3px;
+}
+
+.project-description h2 {
+    color: #2B3467;
+    margin: 1%;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.project-description-node {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    /* background-color: #2B3467; */
+    /* border-radius: 10px; */
+    /* display: flex; */
+    margin: 1% 0;
+    padding: 1% 0;
+    /* height: 75vh; */
+}
+
+
+.project-description {
+    /* background-color: #2B3467; */
+    /* border-radius: 10px; */
+    /* display: flex; */
+    margin: 1% 10%;
+    padding: 1%;
+    align-content: center;
+    text-align: center;
+    /* height: 75vh; */
+}
+
+.number {
+    color: #FF0252;
+    font-weight: bold;
+    font-size: 2rem;
+
+}
+
+.description-highlight {
+    color: #FF0252;
+    font-weight: bold;
+    font-size: 1.5rem;
+    text-decoration: underline;
+
+}
+.big-number {
+    color: #FF0252;
+    font-weight: bold;
+    font-size: 5rem;
+    letter-spacing: -5px  ;
+}
+
+.right-img {
+    width: 8vw;
+    transition: width 0.4s;
+
+}
+.right-img:hover{
+    width: 8.5vw;
+}
+
+.project-description-node-div{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 1% 0;
+    padding: 1% 0;
+
+    
+}
