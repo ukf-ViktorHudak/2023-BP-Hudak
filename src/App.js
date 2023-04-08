@@ -95,8 +95,7 @@ function App() {
 
       
       <div style={{ backgroundColor: '#2B3467' }}>
-      <SubTitle text={'Ako pandémia respondentom zmenila rozpočet na dovolenky?'}></SubTitle>
-        <ProjectSummary></ProjectSummary>
+      
       </div>
 
       <div style={{ backgroundColor: '#2B5267' }}>
