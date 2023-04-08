@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/2023-BP-Hudak/static/css/main.b8e1ef04.css",
-    "main.js": "/2023-BP-Hudak/static/js/main.4adee9c8.js",
+    "main.css": "/2023-BP-Hudak/static/css/main.20c1edc3.css",
+    "main.js": "/2023-BP-Hudak/static/js/main.61ce5aeb.js",
     "static/media/socialne_vazby.png": "/2023-BP-Hudak/static/media/socialne_vazby.6e01e230b70d0592c0ad.png",
     "static/media/zdravie2.png": "/2023-BP-Hudak/static/media/zdravie2.5925e1c4ac0aea5bd09d.png",
     "static/media/zdravie.png": "/2023-BP-Hudak/static/media/zdravie.59656d5c63d4f817b69d.png",
@@ -9,11 +9,11 @@
     "static/media/kraj.png": "/2023-BP-Hudak/static/media/kraj.58b476b5b5de7a9e2cc6.png",
     "static/media/man.png": "/2023-BP-Hudak/static/media/man.182b40a1a69ca89fe905.png",
     "index.html": "/2023-BP-Hudak/index.html",
-    "main.b8e1ef04.css.map": "/2023-BP-Hudak/static/css/main.b8e1ef04.css.map",
-    "main.4adee9c8.js.map": "/2023-BP-Hudak/static/js/main.4adee9c8.js.map"
+    "main.20c1edc3.css.map": "/2023-BP-Hudak/static/css/main.20c1edc3.css.map",
+    "main.61ce5aeb.js.map": "/2023-BP-Hudak/static/js/main.61ce5aeb.js.map"
   },
   "entrypoints": [
-    "static/css/main.b8e1ef04.css",
-    "static/js/main.4adee9c8.js"
+    "static/css/main.20c1edc3.css",
+    "static/js/main.61ce5aeb.js"
   ]
 }
