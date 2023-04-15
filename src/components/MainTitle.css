@@ -1,16 +1,11 @@
 h1 {
-   /* color: #FF0252; */
    color: #FCFFE7;
-    /* font-family: 'Mont', sans-serif; */
     text-align: center;
     font-size: 3rem;
 }
 
 .title {
     background-color: #2B3467;
-    /* background-color: #7D447D; */
-    /* margin: 1% 10% auto 10%; */
     padding: 1%;
-    /* border: #FF0252 10px solid; */
-    /* border-radius: 10px; */
+    
 }

@@ -21,20 +21,13 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
-    /* background-color: #2B3467; */
-    /* border-radius: 10px; */
-    /* display: flex; */
     margin: 1% 0;
     padding: 1% 0;
-    /* height: 75vh; */
 }
 .project-summary-node-div{
     display: flex;
     justify-content: space-around;
     align-items: center;
-    /* background-color: #2B3467; */
-    /* border-radius: 10px; */
-    /* display: flex; */
     margin: 1% 0;
     padding: 1% 0;
 }
@@ -50,20 +43,13 @@
 }
 
 .project-summary {
-    /* background-color: #2B3467; */
-    /* border-radius: 10px; */
-    /* display: flex; */
     margin: 1% 10% 0 10%;
     padding: 1%;
-    /* align-content: center; */
-    /* text-align: center; */
-    /* height: 75vh; */
 }
 
 .number {
     color: #FF0252;
     font-weight: bold;
-
 }
 
 .right-img{

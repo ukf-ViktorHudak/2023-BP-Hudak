@@ -1,10 +1,9 @@
 .project-description p {
     color: rgb(43, 52, 103);
     margin: 1% 0;
-    font-size: 1.5rem;
+    font-size: 1.25rem;
     font-weight: bold;
     text-align: left;
-    
 }
 
 .number-of-res{
@@ -13,8 +12,6 @@
     font-size: 1.25rem;
     font-weight: bold;
     text-align: right;
-    
-
 }
 
 .project-description-top-text p{
@@ -37,7 +34,6 @@
     align-items: center;
     margin: 1% 0;
     padding: 1% 0;
-    
 }
 
 
@@ -47,14 +43,12 @@
     padding: 1%;
     align-content: center;
     text-align: center;
-    
 }
 
 .number {
     color: #FF0252;
     font-weight: bold;
     font-size: 2rem;
-
 }
 
 .description-highlight {
@@ -62,8 +56,8 @@
     font-weight: bold;
     font-size: 1.5rem;
     text-decoration: underline;
-
 }
+
 .big-number {
     color: #FF0252;
     font-weight: bold;
@@ -74,7 +68,6 @@
 .right-img {
     width: 8vw;
     transition: width 0.4s;
-
 }
 .right-img:hover{
     width: 8.5vw;
@@ -84,13 +77,16 @@
     width: 20vw;
     transition: width 0.4s;
 }
+
 .age-img:hover{
     width: 21vw;
 }
+
 .arrow-img{
     width: 2vw;
     animation: bounce 3s infinite;
 }
+
 @keyframes bounce {
     0%, 20%, 50%, 80%, 100% {
       transform: translateY(0);

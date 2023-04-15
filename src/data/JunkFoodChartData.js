@@ -25,9 +25,6 @@ const data = {
   ],
 };
 
-
-
-
 const options = {
   responsive: true,
   animation: {

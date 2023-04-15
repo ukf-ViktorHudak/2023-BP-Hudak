@@ -4,36 +4,19 @@ const data = {
     {
       label: 'počet %',
       data: [5.6, 42.3, 33.8, 18.3],
-      backgroundColor: [
-        '#ff6384',
-        '#36a2eb',
-        '#ffce56',
-        '#4bc0c0'
-      ],
-      hoverBackgroundColor: [
-        '#ff2857',
-        '#18a1fc',
-        '#ffb700e1',
-        '#00c8c8'
-      ],
-      borderColor: [
-        '#2B3467',
-      ],
+      backgroundColor: ['#ff6384','#36a2eb','#ffce56','#4bc0c0'],
+      hoverBackgroundColor: ['#ff2857','#18a1fc','#ffb700e1','#00c8c8'],
+      borderColor: ['#2B3467'],
       borderWidth: 2,
       hoverOffset: 60
-    },
-  ],
-};
-
+    },],};
 const options = {
   responsive: true,
   animation: {
     animateRotate: true,
     animateScale: true,
   },
-  layout: {
-    padding: 30
-  },
+  layout: {padding: 30},
   maintainAspectRatio: false,
   plugins: {
     title: {
@@ -45,8 +28,7 @@ const options = {
       font: {
         size: 30,
         family: 'Istok Web'
-      },
-    },
+      },},
     legend: {
       display: true,
       position: 'right',
@@ -55,16 +37,12 @@ const options = {
         font: {
           size: 15,
           weight: "bold"
-        }
-      }
-    },
+        }}},
     datalabels: {
       display: false,
       borderRadius: 25,
       color: '#FCFFE7',
-      font: {
-        weight: "bold"
-      },
+      font: { weight: "bold"},
       padding: 6
     },
     tooltip: {

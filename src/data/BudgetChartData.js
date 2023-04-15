@@ -1,5 +1,6 @@
 const data = {
-  labels: ['Zostal rovnaký', 'Znížil sa asi o 25%', 'Znížil sa asi o 50%', 'Znížil sa viac ako 50%', 'Zvýšil sa'],
+  labels: ['Zostal rovnaký', 'Znížil sa asi o 25%', 
+  'Znížil sa asi o 50%', 'Znížil sa viac ako 50%', 'Zvýšil sa'],
   datasets: [
     {
       label: 'počet %',
@@ -26,9 +27,6 @@ const data = {
     },
   ],
 };
-
-
-
 
 const options = {
   responsive: true,

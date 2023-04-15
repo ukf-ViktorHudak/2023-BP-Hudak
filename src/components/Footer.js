@@ -5,7 +5,7 @@ function Footer() {
         <div className='footer-summary'>
             <div className='footer-summary-node'>
                 <p className='footer-summary-node-left'>Autor:&emsp;<span className='name-text'>Viktor Hudák</span></p>
-                <p className='footer-summary-node-right'>Táto webová stránka bola spracovaná pre účel bakalárskej práce na tému:  </p>
+                <p className='footer-summary-node-right'>Táto webová stránka bola spracovaná na účely bakalárskej práce na tému:  </p>
     
             </div>
             <div className='footer-summary-node'>

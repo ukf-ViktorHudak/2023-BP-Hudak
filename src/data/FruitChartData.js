@@ -71,7 +71,6 @@ const options = {
 
     tooltip: {
       callbacks: {
-        // label: (ttItem) => `${ttItem.label}: ${ttItem.parsed}%`
         label: (ttItem) => `${ttItem.parsed} %`
       }
     }
