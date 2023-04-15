@@ -1,0 +1,5 @@
+pre spustenie projektu na lokálnom zariadení je potrebné mať nainštalovaný Node.js a editor zdrojového kódu (napr. Virtual Studio Code),
+po otvorení projektu v editore je potrebné do konzoly zadať príkaz: npm install 
+po inštalácii príkaz: npm start
+web sa po chvíli spustí sám vo vašom prehliadači. 
+pre rýchlý prístup, je však stránka dostupná na linku: https://ukf-viktorhudak.github.io/2023-BP-Hudak/
